@@ -19,4 +19,4 @@ Program untuk mengelola data nilai mahasiswa menggunakan Dictionary Python. Prog
     * *Lainnya:* Tampilkan pesan error dan kembali ke Menu.
 5.  *END:* Program selesai.
 
-![alt image] (https://github.com/sabrinadwiajeng23-cyber/Tugas-Pemrograman-Pertemuan-10/blob/main/Flowchart_.png)
+![alt image] (https://github.com/sabrinadwiajeng23-cyber/Tugas-Pemrograman-Pertemuan-10/blob/main/flowchart-.jpg)
